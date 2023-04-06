@@ -1,5 +1,5 @@
 [https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/CapsuleShooter/](https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/CapsuleShooter/)
 [https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/CameraZoom/](https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/CameraZoom/)
 [https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/JumpingBall/](https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/JumpingBall/)
-[https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/MovesAndColliders/](https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/MovesAndColliders/)
+[https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/MovementWithColliders/](https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/MovementWithColliders/)
 [https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/PossessElement/](https://git-macko.github.io/UnityBasics/5Mechanics%20WebGL/PossessElement/)
