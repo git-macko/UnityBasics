@@ -1,1 +1,1 @@
-[https://git-macko.github.io/UnityBasics/docs/5Mechanics WebGL/CapsuleShooter/](https://git-macko.github.io/UnityBasics/docs/index.md/)
+[https://git-macko.github.io/UnityBasics/docs/5Mechanics+WebGL/CapsuleShooter/](https://git-macko.github.io/UnityBasics/docs/index.md/)
